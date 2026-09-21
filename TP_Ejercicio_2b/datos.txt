@@ -1,0 +1,13 @@
+ID: TP_Ejercicio_2b
+Título: Ejercicio 2b - FM C₂H₃Br - 300 MHZ ¹H NMR en CDCl₃
+Fórmula: C₂H₃Br
+
+RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -1.2990   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -0.2500    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+M  END

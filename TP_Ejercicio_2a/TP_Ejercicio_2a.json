@@ -1,0 +1,43 @@
+{
+  "spectra": [
+    {
+      "data": {},
+      "id": "616c6b67-b674-4715-bcd1-3d83572d7d06",
+      "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./TP_Ejercicio_2a/1h.jdx"
+      },
+      "display": {
+        "name": "1H RMN",
+        "color": "#C10020"
+      },
+      "info": {
+        "nucleus": "1H",
+        "origin": "LISA RMN DB"
+      }
+    },
+    {
+      "data": {},
+      "id": "dd4443ea-3542-4d5b-8293-196e95adccb6",
+      "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./TP_Ejercicio_2a/13c.jdx"
+      },
+      "display": {
+        "name": "13C RMN",
+        "color": "#0055A5"
+      },
+      "info": {
+        "nucleus": "13C",
+        "origin": "LISA RMN DB"
+      }
+    }
+  ],
+  "molecules": [
+    {
+      "molfile": "\n     RDKit          2D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   -1.9796   -0.1365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.5994    0.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5994   -0.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9796    0.1365    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  END\n"
+    }
+  ]
+}
