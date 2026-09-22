@@ -1,33 +1,5 @@
 [
   {
-    "groupName": "Complementarios",
-    "folderName": "Complementarios",
-    "children": [
-      {
-        "id": "1iWvb8DKiuuuKXKL3QFNOjx0eX0=",
-        "mf": "C10H10O4",
-        "idCodeHash": "bac9bb4242623a7c6ff6f39e5b694f7e",
-        "file": "./Complementarios/Comp_Ejercicio_1.nmrium.zip",
-        "title": "Comp_Ejercicio_1",
-        "selected": true
-      },
-      {
-        "id": "YrfgOmi2nV7BEHlct55/MM58rj4=",
-        "mf": "C5H10",
-        "idCodeHash": "ba9e458b05a18f4738fad1321761f33c",
-        "file": "./Complementarios/Comp_Ejercicio_2.nmrium.zip",
-        "title": "Comp_Ejercicio_2"
-      },
-      {
-        "id": "9qHVUHmYcI4LUerRgJsqQkaGgks=",
-        "mf": "C3H5Br",
-        "idCodeHash": "e52f751f4ad32a4db4ae6af2ad03c150",
-        "file": "./Complementarios/Comp_Ejercicio_3.nmrium.zip",
-        "title": "Comp_Ejercicio_3"
-      }
-    ]
-  },
-  {
     "groupName": "Teórico Práctico",
     "folderName": "Teórico Práctico",
     "children": [
@@ -100,6 +72,34 @@
         "idCodeHash": "cb3511003283f7540451875fbfb37b3d",
         "file": "./Teórico Práctico/TP_Ejercicio_6.nmrium.zip",
         "title": "TP_Ejercicio_6"
+      }
+    ]
+  },
+  {
+    "groupName": "Complementarios",
+    "folderName": "Complementarios",
+    "children": [
+      {
+        "id": "1iWvb8DKiuuuKXKL3QFNOjx0eX0=",
+        "mf": "C10H10O4",
+        "idCodeHash": "bac9bb4242623a7c6ff6f39e5b694f7e",
+        "file": "./Complementarios/Comp_Ejercicio_1.nmrium.zip",
+        "title": "Comp_Ejercicio_1",
+        "selected": true
+      },
+      {
+        "id": "YrfgOmi2nV7BEHlct55/MM58rj4=",
+        "mf": "C5H10",
+        "idCodeHash": "ba9e458b05a18f4738fad1321761f33c",
+        "file": "./Complementarios/Comp_Ejercicio_2.nmrium.zip",
+        "title": "Comp_Ejercicio_2"
+      },
+      {
+        "id": "9qHVUHmYcI4LUerRgJsqQkaGgks=",
+        "mf": "C3H5Br",
+        "idCodeHash": "e52f751f4ad32a4db4ae6af2ad03c150",
+        "file": "./Complementarios/Comp_Ejercicio_3.nmrium.zip",
+        "title": "Comp_Ejercicio_3"
       }
     ]
   }
