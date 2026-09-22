@@ -8,6 +8,13 @@
     "selected": true
   },
   {
+    "id": "uDvBVuOjW2/Bypg9d2masset/h8=",
+    "mf": "C10H12O2",
+    "idCodeHash": "6da225bfb2d39bd12f26eb09da00a1cf",
+    "file": "./Complementarios/Comp_Ejercicio_10.nmrium.zip",
+    "title": "Comp_Ejercicio_10"
+  },
+  {
     "id": "YrfgOmi2nV7BEHlct55/MM58rj4=",
     "mf": "C5H10",
     "idCodeHash": "ba9e458b05a18f4738fad1321761f33c",
@@ -20,5 +27,47 @@
     "idCodeHash": "e52f751f4ad32a4db4ae6af2ad03c150",
     "file": "./Complementarios/Comp_Ejercicio_3.nmrium.zip",
     "title": "Comp_Ejercicio_3"
+  },
+  {
+    "id": "xhaRX/VD6YqLVVYs55DzZihzLf4=",
+    "mf": "C4H7Br",
+    "idCodeHash": "456b8cbbbcf99f9fe94d5cef7177e319",
+    "file": "./Complementarios/Comp_Ejercicio_4.nmrium.zip",
+    "title": "Comp_Ejercicio_4"
+  },
+  {
+    "id": "tPvnRdVELR9ewYIlIeL5Iyjf5cQ=",
+    "mf": "C5H10O",
+    "idCodeHash": "f3920eae2116af63394a03f9eb014d6b",
+    "file": "./Complementarios/Comp_Ejercicio_5.nmrium.zip",
+    "title": "Comp_Ejercicio_5"
+  },
+  {
+    "id": "ElgPU9QiSdQNHa1diYf2c55fJaI=",
+    "mf": "C4H8O2",
+    "idCodeHash": "583914e612346a09632a3cc3782cd9bd",
+    "file": "./Complementarios/Comp_Ejercicio_6.nmrium.zip",
+    "title": "Comp_Ejercicio_6"
+  },
+  {
+    "id": "zM1u8VLFp2bET0TVXiPB77tgOmQ=",
+    "mf": "C6H10O2",
+    "idCodeHash": "98220b4bce1ccd754fd14300a342d0a3",
+    "file": "./Complementarios/Comp_Ejercicio_7.nmrium.zip",
+    "title": "Comp_Ejercicio_7"
+  },
+  {
+    "id": "dEtaGn3qMuHCR2PMVSDkzjfHhF8=",
+    "mf": "C6H10O3",
+    "idCodeHash": "49210b3754b9b8ca150ef2e3e98e3fac",
+    "file": "./Complementarios/Comp_Ejercicio_8.nmrium.zip",
+    "title": "Comp_Ejercicio_8"
+  },
+  {
+    "id": "Xmt47JQiA4eYlAB0gaOx+lRYSqg=",
+    "mf": "C8H7Br",
+    "idCodeHash": "a542492a64d00e4a064f752d53f04c29",
+    "file": "./Complementarios/Comp_Ejercicio_9.nmrium.zip",
+    "title": "Comp_Ejercicio_9"
   }
 ]
