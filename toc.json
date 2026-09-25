@@ -8,7 +8,8 @@
         "mf": "C6H12O2",
         "idCodeHash": "9aac4a5a64ff312feba2be4d095bbdca",
         "file": "./Teoría/Teoría_Problema_A.nmrium.zip",
-        "title": "Teoría_Problema_A"
+        "title": "Teoría_Problema_A",
+        "selected": true
       },
       {
         "id": "vBQ21cGa1ZguFsGEg4aLqjYe1QI=",
@@ -49,8 +50,7 @@
         "mf": "C8H10",
         "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
         "file": "./Teórico Práctico/TP_Ejercicio_1a.nmrium.zip",
-        "title": "TP_Ejercicio_1a",
-        "selected": true
+        "title": "TP_Ejercicio_1a"
       },
       {
         "id": "wh0rrVvx7m3QlRYsW49OFdpkIaQ=",
@@ -118,6 +118,194 @@
     ]
   },
   {
+    "groupName": "Trabajo Práctico",
+    "folderName": "Trabajo Práctico",
+    "children": [
+      {
+        "id": "UtDO1L5jngkCuau/w2DF/kBmdus=",
+        "mf": "C10H14",
+        "idCodeHash": "79764682744544490b659d6504eadc59",
+        "file": "./Trabajo Práctico/P_Ejercicio_1a.nmrium.zip",
+        "title": "P_Ejercicio_1a"
+      },
+      {
+        "id": "gFr6U6+hKjJKZtfFQvj/GdwqzHs=",
+        "mf": "C10H14",
+        "idCodeHash": "40c7e3e2dcbee52cbd152770e11e9d4f",
+        "file": "./Trabajo Práctico/P_Ejercicio_1b.nmrium.zip",
+        "title": "P_Ejercicio_1b"
+      },
+      {
+        "id": "aeuYP2bbQdnoE+Vt/Nufx4dkwNo=",
+        "mf": "C3H6Cl2",
+        "idCodeHash": "6bc84ee0b43a1e6bc26fe56fd4634293",
+        "file": "./Trabajo Práctico/P_Ejercicio_2a.nmrium.zip",
+        "title": "P_Ejercicio_2a"
+      },
+      {
+        "id": "UBC3LFujatLALSBlhUyR5wVOcX4=",
+        "mf": "C3H6Cl2",
+        "idCodeHash": "2dfe8c5baab6a2a270bf8f9b665fe10a",
+        "file": "./Trabajo Práctico/P_Ejercicio_2b.nmrium.zip",
+        "title": "P_Ejercicio_2b"
+      },
+      {
+        "id": "ytwystLndUdQNBJBit+AEzHbty8=",
+        "mf": "C3H6Cl2",
+        "idCodeHash": "d357c8203bfe610cd16079b8be918075",
+        "file": "./Trabajo Práctico/P_Ejercicio_2c.nmrium.zip",
+        "title": "P_Ejercicio_2c"
+      },
+      {
+        "id": "bN5qMbjXujfkalXqWFsvfA4SzrY=",
+        "mf": "C3H6Cl2",
+        "idCodeHash": "16d1871aea8ae725926dd72caf401217",
+        "file": "./Trabajo Práctico/P_Ejercicio_2d.nmrium.zip",
+        "title": "P_Ejercicio_2d"
+      },
+      {
+        "id": "ObJhz6YsC3oehUTtiTW2We9dLCs=",
+        "mf": "C5H8O",
+        "idCodeHash": "edb51027259e9ba6297bcc50e0d9bc25",
+        "file": "./Trabajo Práctico/P_Ejercicio_3.nmrium.zip",
+        "title": "P_Ejercicio_3"
+      },
+      {
+        "id": "6jaG1iE+UGUudmAvES9b+8sBl+M=",
+        "mf": "C5H8O2",
+        "idCodeHash": "fbf37cd6093d2e707673a1d1e8d6ed84",
+        "file": "./Trabajo Práctico/P_Ejercicio_4.nmrium.zip",
+        "title": "P_Ejercicio_4"
+      },
+      {
+        "id": "PzdxEX/DSkVpYSOfRvEvItXk0Gw=",
+        "mf": "C5H8O",
+        "idCodeHash": "f06c53dface3992e92fd2ab141990aba",
+        "file": "./Trabajo Práctico/P_Ejercicio_5.nmrium.zip",
+        "title": "P_Ejercicio_5"
+      },
+      {
+        "id": "yiVPGsfjNzokVqMiq8B4BSaVfwc=",
+        "mf": "C5H10O",
+        "idCodeHash": "b03dde0daab1beb8390a7cce73abbee7",
+        "file": "./Trabajo Práctico/P_Ejercicio_6.nmrium.zip",
+        "title": "P_Ejercicio_6"
+      },
+      {
+        "id": "SCg9cilyQx2LiLEW1o3jPOpYz1w=",
+        "mf": "C10H13NO2",
+        "idCodeHash": "5ca89f3f84b650d701d8de2b0032bba5",
+        "file": "./Trabajo Práctico/P_Ejercicio_7.nmrium.zip",
+        "title": "P_Ejercicio_7"
+      },
+      {
+        "id": "dPFIPMQoJnbIdzxU3T8BybWTz9c=",
+        "mf": "C6H10O4",
+        "idCodeHash": "43023836b1f7821bffe23149d12082f9",
+        "file": "./Trabajo Práctico/P_Ejercicio_8a.nmrium.zip",
+        "title": "P_Ejercicio_8a"
+      },
+      {
+        "id": "mfIFcU0+DrHxJF0jp2wZoRwCF/A=",
+        "mf": "C15H14O",
+        "idCodeHash": "667c174e71bd268fd2f59b2c50788479",
+        "file": "./Trabajo Práctico/P_Ejercicio_8b.nmrium.zip",
+        "title": "P_Ejercicio_8b"
+      },
+      {
+        "id": "1GpsnryqbmYXQoUnmmq9NfBUQtQ=",
+        "mf": "C4H8O2",
+        "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+        "file": "./Trabajo Práctico/P_Ejercicio_8c.nmrium.zip",
+        "title": "P_Ejercicio_8c"
+      },
+      {
+        "id": "TlOKo8UDHi0d+k1crO6woX8y+Rg=",
+        "mf": "C8H10O",
+        "idCodeHash": "86200d52beb93183ee69cb115025e233",
+        "file": "./Trabajo Práctico/P_Ejercicio_8d.nmrium.zip",
+        "title": "P_Ejercicio_8d"
+      },
+      {
+        "id": "3lenJQi2UE9pFsWwDZbyXn4K+Gg=",
+        "mf": "C8H8O2",
+        "idCodeHash": "b4298877cd884d92c7bc35ded77608d6",
+        "file": "./Trabajo Práctico/P_Ejercicio_8e.nmrium.zip",
+        "title": "P_Ejercicio_8e"
+      },
+      {
+        "id": "JJ4dOsStaD7LEYQlr4IkAahC8ls=",
+        "mf": "C4H8O",
+        "idCodeHash": "c24527097aa6fc9f937412dd192802a7",
+        "file": "./Trabajo Práctico/P_Ejercicio_8f.nmrium.zip",
+        "title": "P_Ejercicio_8f"
+      },
+      {
+        "id": "UiiNglMmUxh1jfru6diVUzRAz9A=",
+        "mf": "C5H12O",
+        "idCodeHash": "c64d70a676e20d9e328ec7ddf4127f97",
+        "file": "./Trabajo Práctico/P_Ejercicio_8g.nmrium.zip",
+        "title": "P_Ejercicio_8g"
+      },
+      {
+        "id": "4aQG9A/SvgySioccMIFBiue0lgM=",
+        "mf": "C9H11Cl",
+        "idCodeHash": "f8c5401c2445baad455537b918a1cbc9",
+        "file": "./Trabajo Práctico/P_Ejercicio_8h.nmrium.zip",
+        "title": "P_Ejercicio_8h"
+      },
+      {
+        "id": "H24bQ9up414UmEG2oRhsdm0OYM8=",
+        "mf": "C4H9Br",
+        "idCodeHash": "504624d4aa60b44cd2761115e061d024",
+        "file": "./Trabajo Práctico/P_Ejercicio_8i.nmrium.zip",
+        "title": "P_Ejercicio_8i"
+      },
+      {
+        "id": "bez1v0n0/501ReHVae8IjLg310A=",
+        "mf": "C6H10O3",
+        "idCodeHash": "7a541269e0f2bfe58530a2fef401abf3",
+        "file": "./Trabajo Práctico/P_Ejercicio_8j.nmrium.zip",
+        "title": "P_Ejercicio_8j"
+      },
+      {
+        "id": "KViuUwzJ6xU216SQQf9dvflAxwQ=",
+        "mf": "C5H10O",
+        "idCodeHash": "50ffeab1885cdb4a511633aee310f86c",
+        "file": "./Trabajo Práctico/P_Ejercicio_8k.nmrium.zip",
+        "title": "P_Ejercicio_8k"
+      },
+      {
+        "id": "z3/x5y1/mKTmMMlWxtZMfegJoBk=",
+        "mf": "C8H8O",
+        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+        "file": "./Trabajo Práctico/P_Ejercicio_8l.nmrium.zip",
+        "title": "P_Ejercicio_8l"
+      },
+      {
+        "id": "EEzEj4wNTXCmR2CVUdqV+rzBGHo=",
+        "mf": "C9H10O",
+        "idCodeHash": "585c40348a863fcd6cb443f27657220e",
+        "file": "./Trabajo Práctico/P_Ejercicio_8m.nmrium.zip",
+        "title": "P_Ejercicio_8m"
+      },
+      {
+        "id": "T/pnDQp121XYRRHv43hrrqSlALg=",
+        "mf": "C8H8O2",
+        "idCodeHash": "f171174be4500a0bab68cc25b33015df",
+        "file": "./Trabajo Práctico/P_Ejercicio_8n.nmrium.zip",
+        "title": "P_Ejercicio_8n"
+      },
+      {
+        "id": "IbzngQ+ulhrZvOEOqyXuYklP5Ns=",
+        "mf": "C8H8O2",
+        "idCodeHash": "10f9e64bba7eb8cce94503c5e4856335",
+        "file": "./Trabajo Práctico/P_Ejercicio_8o.nmrium.zip",
+        "title": "P_Ejercicio_8o"
+      }
+    ]
+  },
+  {
     "groupName": "Complementarios",
     "folderName": "Complementarios",
     "children": [
@@ -143,9 +331,9 @@
         "title": "Comp_Ejercicio_11"
       },
       {
-        "id": "40ZOqVMZeM20h1tK4YvPoGLj4yo=",
+        "id": "HUNEA4EWk8gNWm9187B/dyhywUw=",
         "mf": "C5H8O",
-        "idCodeHash": "f06c53dface3992e92fd2ab141990aba",
+        "idCodeHash": "ba5fd69dd0754090f00d5c2655fdbbe8",
         "file": "./Complementarios/Comp_Ejercicio_12.nmrium.zip",
         "title": "Comp_Ejercicio_12"
       },
@@ -155,6 +343,20 @@
         "idCodeHash": "6c7653d0550575c26fd7107099a89733",
         "file": "./Complementarios/Comp_Ejercicio_13.nmrium.zip",
         "title": "Comp_Ejercicio_13"
+      },
+      {
+        "id": "Ktdbv9Tce6NYCv+PwvR8ewdpspc=",
+        "mf": "C5H8O",
+        "idCodeHash": "f06c53dface3992e92fd2ab141990aba",
+        "file": "./Complementarios/Comp_Ejercicio_15.nmrium.zip",
+        "title": "Comp_Ejercicio_15"
+      },
+      {
+        "id": "30DtriX9MBgdwkv+o9m+D+MhxVA=",
+        "mf": "C8H10N2O",
+        "idCodeHash": "7fa7b77ac809303b9b3a1df8a8ac1069",
+        "file": "./Complementarios/Comp_Ejercicio_16.nmrium.zip",
+        "title": "Comp_Ejercicio_16"
       },
       {
         "id": "YrfgOmi2nV7BEHlct55/MM58rj4=",
