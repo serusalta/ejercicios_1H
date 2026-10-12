@@ -114,6 +114,34 @@
         "idCodeHash": "cb3511003283f7540451875fbfb37b3d",
         "file": "./Teórico Práctico/TP_Ejercicio_6.nmrium.zip",
         "title": "TP_Ejercicio_6"
+      },
+      {
+        "id": "je1Fo6An/AkWMdcj8rsyDRrkK0k=",
+        "mf": "C5H10O",
+        "idCodeHash": "d00a82fd5dd518d7476f43068a392745",
+        "file": "./Teórico Práctico/TP_13C_Ejercicio_2.nmrium",
+        "title": "TP_13C_Ejercicio_2"
+      },
+      {
+        "id": "K3u0QZ2w+xSFwB/FZfziU5zmPfI=",
+        "mf": "C9H11NO2",
+        "idCodeHash": "9583e4ded57ffa238aee53e4819fb741",
+        "file": "./Teórico Práctico/TP_13C_Ejercicio_3.nmrium",
+        "title": "TP_13C_Ejercicio_3"
+      },
+      {
+        "id": "nIwwBzrEoLNJDmfh4ML/qvrP23Y=",
+        "mf": "C3H6O",
+        "idCodeHash": "1c6681b1ec9a5d5af51e890694493315",
+        "file": "./Teórico Práctico/TP_13C_Ejercicio_4a.nmrium",
+        "title": "TP_13C_Ejercicio_4a"
+      },
+      {
+        "id": "f08onAInHpIOhNlh7AEgUEVj4V0=",
+        "mf": "C5H11Br",
+        "idCodeHash": "de5a6bd5609e575d8ba96c006e0c8aa2",
+        "file": "./Teórico Práctico/TP_13C_Ejercicio_4b.nmrium",
+        "title": "TP_13C_Ejercicio_4b"
       }
     ]
   },
@@ -462,6 +490,34 @@
         "idCodeHash": "69e6fce2db1fec7adf095acfaf07bbee",
         "file": "./Complementarios/Comp_Problema_14.nmrium.zip",
         "title": "Comp_Problema_14"
+      },
+      {
+        "id": "P51JtbhmMuGaznWYwR091RHZzgk=",
+        "mf": "C5H9Br",
+        "idCodeHash": "cc241ca33366eaa96dbc1ca561120a83",
+        "file": "./Complementarios/Comp_Ejercicio_17.nmrium",
+        "title": "Comp_Ejercicio_17"
+      },
+      {
+        "id": "IN+RIBigmLHaZswzeverMFp5a+8=",
+        "mf": "C4H6Cl2",
+        "idCodeHash": "15aecd8795f62503fb4051088bac0ae9",
+        "file": "./Complementarios/Comp_Ejercicio_18.nmrium",
+        "title": "Comp_Ejercicio_18"
+      },
+      {
+        "id": "wH8p8VSQwC8vUf3s6JKKeXZ3Ntc=",
+        "mf": "C6H12O",
+        "idCodeHash": "6aa171e989fad5b118dc6bdc6f509dd2",
+        "file": "./Complementarios/Comp_Ejercicio_19.nmrium",
+        "title": "Comp_Ejercicio_19"
+      },
+      {
+        "id": "pobeMgP9eFtE6bKQTVIcP/lXlS4=",
+        "mf": "C7H12O4",
+        "idCodeHash": "a3d583f1a22f72a80b4409b4deb23d75",
+        "file": "./Complementarios/Comp_Ejercicio_20.nmrium",
+        "title": "Comp_Ejercicio_20"
       }
     ]
   }
