@@ -516,5 +516,39 @@
         "title": "Comp_Ejercicio_17"
       }
     ]
+  },
+  {
+    "groupName": "Bidimensional",
+    "folderName": "bidimensional",
+    "children": [
+      {
+        "id": "PMpXrPVqZkNkM6OjzrrrfvaRs6s=",
+        "mf": "C8H10N4O2",
+        "idCodeHash": "587b97d953ce5b083b832f3f0aa675b3",
+        "file": "./bidimensional/Teoría_Ejercicio_1.nmrium",
+        "title": "Teoría_Ejercicio_1"
+      },
+      {
+        "id": "4E/1WhHDpJDaAqpkMtRddi02gvA=",
+        "mf": "C10H18O",
+        "idCodeHash": "c1353b67f60562e6e7aaef48f8d6264c",
+        "file": "./bidimensional/Teoría_Ejercicio_2.nmrium",
+        "title": "Teoría_Ejercicio_2"
+      },
+      {
+        "id": "oaDslwLgQZKgCWYzJ4djQ+19FXM=",
+        "mf": "C10H12O",
+        "idCodeHash": "6407caea28e1396ba120634bb1b138c3",
+        "file": "./bidimensional/Teoría_Ejercicio_3.nmrium",
+        "title": "Teoría_Ejercicio_3"
+      },
+      {
+        "id": "knNSU4huzANPxXJjH7HTYrIO1EA=",
+        "mf": "C10H20O",
+        "idCodeHash": "d97b226ffedc6e9548175c683ad461fb",
+        "file": "./bidimensional/Teoría_Ejercicio_4.nmrium",
+        "title": "Teoría_Ejercicio_4"
+      }
+    ]
   }
 ]
