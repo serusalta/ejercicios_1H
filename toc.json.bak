@@ -557,11 +557,18 @@
         "title": "Teoría_Ejercicio_6"
       },
       {
-        "id": "kYVvMZayliz5imQYMlCPK+wvYlg=",
+        "id": "UcpEzZNIsNBue0Ky4/JQKprDcn8=",
         "mf": "C10H16",
         "idCodeHash": "4ca6e0b553490df53d645cf835fb2c4f",
-        "file": "./bidimensional/TEoría_Ejercicio_5.nmrium",
-        "title": "TEoría_Ejercicio_5"
+        "file": "./bidimensional/Teoría_Ejercicio_5.nmrium",
+        "title": "Teoría_Ejercicio_5"
+      },
+      {
+        "id": "c7t/0yzgG5kGAU/2M6gKHwC5Bog=",
+        "mf": "C6H12O3",
+        "idCodeHash": "8b8f04034f1b9674d2ee3cea87810896",
+        "file": "./bidimensional/TP_Ejercicio_2.nmrium",
+        "title": "TP_Ejercicio_2"
       }
     ]
   }
