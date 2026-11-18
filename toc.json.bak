@@ -550,13 +550,6 @@
         "title": "Teoría_Ejercicio_4"
       },
       {
-        "id": "y/nICWDHDC9ik/JsQXElJWgZzBU=",
-        "mf": "C9H8O4",
-        "idCodeHash": "d14124446a2ac9e8182f3033cae26a9b",
-        "file": "./bidimensional/Teoría_Ejercicio_6.nmrium",
-        "title": "Teoría_Ejercicio_6"
-      },
-      {
         "id": "UcpEzZNIsNBue0Ky4/JQKprDcn8=",
         "mf": "C10H16",
         "idCodeHash": "4ca6e0b553490df53d645cf835fb2c4f",
@@ -564,11 +557,39 @@
         "title": "Teoría_Ejercicio_5"
       },
       {
+        "id": "y/nICWDHDC9ik/JsQXElJWgZzBU=",
+        "mf": "C9H8O4",
+        "idCodeHash": "d14124446a2ac9e8182f3033cae26a9b",
+        "file": "./bidimensional/Teoría_Ejercicio_6.nmrium",
+        "title": "Teoría_Ejercicio_6"
+      },
+      {
+        "id": "ejzEaxomJwhu2PLUK5r+xd5b5e4=",
+        "mf": "C10H12O2",
+        "idCodeHash": "eb73c07cf15748f3fa7b39c3799f54ac",
+        "file": "./bidimensional/TP_Ejercicio_1.nmrium",
+        "title": "TP_Ejercicio_1"
+      },
+      {
         "id": "c7t/0yzgG5kGAU/2M6gKHwC5Bog=",
         "mf": "C6H12O3",
         "idCodeHash": "8b8f04034f1b9674d2ee3cea87810896",
         "file": "./bidimensional/TP_Ejercicio_2.nmrium",
         "title": "TP_Ejercicio_2"
+      },
+      {
+        "id": "O/eA7B6HU1g+rv27GpvteYARxhU=",
+        "mf": "C10H12O",
+        "idCodeHash": "d164aba7017e732cfa661231baec432f",
+        "file": "./bidimensional/Práctico_Ejercicio_1.nmrium",
+        "title": "Práctico_Ejercicio_1"
+      },
+      {
+        "id": "VQD3kw5wjovo0xLM3mHat2M182c=",
+        "mf": "C11H12O2",
+        "idCodeHash": "a5643b06b4aa5d2111ae0386c968e2c6",
+        "file": "./bidimensional/Práctico_Ejercicio_2.nmrium",
+        "title": "Práctico_Ejercicio_2"
       }
     ]
   }
