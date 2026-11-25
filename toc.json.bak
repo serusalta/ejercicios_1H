@@ -604,6 +604,34 @@
         "idCodeHash": "4f0e9bb39726499e067bd512fb298ecc",
         "file": "./bidimensional/TPII_Ejercicio_1.nmrium",
         "title": "TPII_Ejercicio_1"
+      },
+      {
+        "id": "XHmWqGWjhbq3iPFIWfk6CIBYywo=",
+        "mf": "C10H18O",
+        "idCodeHash": "a9290c17ac6bd8045932d6bdc8ffc293",
+        "file": "./bidimensional/TPII_Ejercicio_2.nmrium",
+        "title": "TPII_Ejercicio_2"
+      },
+      {
+        "id": "IFffwyS+lMkDbfu/zRWp14UAqTw=",
+        "mf": "C10H16O",
+        "idCodeHash": "cfb91961df63903b553dc505ea8da0ac",
+        "file": "./bidimensional/Práctico_II_Ejercicio_3.nmrium",
+        "title": "Práctico_II_Ejercicio_3"
+      },
+      {
+        "id": "Ab8KTczAT8KvpWqQDvwtN5TBfSI=",
+        "mf": "C16H22O4",
+        "idCodeHash": "1e7ff8522d3557a644e89268d474faec",
+        "file": "./bidimensional/Práctico_II_Ejercicio_2.nmrium",
+        "title": "Práctico_II_Ejercicio_2"
+      },
+      {
+        "id": "cDnG3VejSvOslXtzES6NIZh+oWE=",
+        "mf": "C16H22O4",
+        "idCodeHash": "1e7ff8522d3557a644e89268d474faec",
+        "file": "./bidimensional/Práctico_II_Ejercicio_1.nmrium",
+        "title": "Práctico_II_Ejercicio_1"
       }
     ]
   }
